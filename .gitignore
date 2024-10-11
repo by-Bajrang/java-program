@@ -1,1 +1,7 @@
-*.class
+# Ignore everything
+*
+
+# Unignore specific file types
+!.gitignore
+!*.java
+!*.cpp
